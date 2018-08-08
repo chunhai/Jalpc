@@ -1,0 +1,43 @@
+# education section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University of Texas at Arlington
+    i18n: univ_a
+  desc:
+    detail: Research Area: Computer Networks, Wireless Commnucation, Machine Learning
+    i18n: univ_a_desc
+  date:
+    detail: Sep. 2015 to present
+    i18n: cuniv_a_date
+  job:
+    detail: Computer Engineering
+    i18n: univ_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Soochow University (CHINA)
+    i18n: univ_b
+  desc:
+    detail: Embedded software development, Networks
+    i18n: univ_b_desc
+  date:
+    detail: Sep. 2012 to June. 2015
+    i18n: univ_b_date
+  job:
+    detail: Information and Communication Engineering
+    i18n: univ_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Soochow University (CHINA)
+    i18n: univ_c
+  desc:
+    detail: Embedded software development
+    i18n: univ_c_desc
+  date:
+    detail: Sep. 2008 to June. 2012
+    i18n: univ_c_date
+  job:
+    detail: Electrical Information Science and Technology
+    i18n: univ_c_job
+  icon: fa-plus-square
