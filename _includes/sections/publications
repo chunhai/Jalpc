@@ -1,0 +1,5 @@
+<div class="container" id="i18_publications">
+    <div class="row">
+      <p><span data-i18n="test"></span></p>
+    </div>
+</div>
