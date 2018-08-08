@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, SDN, Computer Networks, Machine Learing, Python, Java, Sleeping
-percentage: 100, 85, 95, 88, 90, 80, 90
+aspects:  SDN, Computer Networks, Machine Learing, Python, Java, Motivation
+percentage: 85, 95, 88, 90, 80, 90
