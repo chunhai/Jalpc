@@ -2,7 +2,7 @@
 
 label: Ability
 id : cs
-#aspects:  Network, Machine Learning, Python, Java, Linux, Motivation, MATLAB
-#percentage: 90, 88, 85, 80, 80, 95, 80
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects:  Network, Machine Learning, Python, Java, Linux, MATLAB, Motivation
+percentage: 90, 88, 85, 80, 80, 80, 95
+#aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
+#percentage: 100, 35, 65, 80, 70, 90, 50
