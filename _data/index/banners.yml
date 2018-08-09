@@ -3,11 +3,11 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/blue_sky_03.jpg
-  #title: Golden Bridge
+  #title: Blue Sky
 
 - src: landing/SF_proper.jpg
-  #title: Golden Bridge In San Francisco
+  #title: Golden Bridge 
   
 - src: landing/Angel_landing.jpg
-
+#title: Angel Landing
 
