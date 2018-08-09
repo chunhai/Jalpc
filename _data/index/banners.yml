@@ -2,10 +2,10 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/blue_sky_01.jpg
+- src: landing/blue_sky_03.jpg
   #title: Golden Bridge
 
-- src: landing/blue_sky_02.jpg
+#- src: landing/blue_sky_02.jpg
   #title: second banner image
   
-- src: landing/blue-sky.jpg
+#- src: landing/blue-sky.jpg
