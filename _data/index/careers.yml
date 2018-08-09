@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Huawei Technologies
+    detail: Huawei Technologies, Plano, TX
     i18n: company_name
   desc:
     detail: Apply machine learning techs in networks, such as malicous traffic detection, routing.
@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Huawei Technologies
+    detail: Huawei Technologies, Plano, TX
     i18n: company_b
   desc:
     detail: Implement E-CORD with ONOS, XOS, OPENSTACK
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Philips Healthcare
+    detail: Philips Healthcare, Suzhou, China
     i18n: company_b
   desc:
     detail: Embedded software development
