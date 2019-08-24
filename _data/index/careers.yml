@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Facebook, Menlo Park, CA
+    i18n: company_name
+  desc:
+    detail: Infrastructure.
+    i18n: company_a_desc
+  date:
+    detail: May. 2019 to Aug. 2019
+    i18n: company_a_date
+  job:
+    detail: Software Engineer Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
     detail: Huawei Technologies, Plano, TX
     i18n: company_name
   desc:
