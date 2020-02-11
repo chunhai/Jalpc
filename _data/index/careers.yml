@@ -4,6 +4,20 @@
     detail: Facebook, Menlo Park, CA
     i18n: company_name
   desc:
+    detail: Systems and Infrastructures.
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2020 to Present
+    i18n: company_a_date
+  job:
+    detail: Research Scientist
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Facebook, Menlo Park, CA
+    i18n: company_name
+  desc:
     detail: Infrastructure.
     i18n: company_a_desc
   date:
